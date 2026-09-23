@@ -22,6 +22,7 @@ header {
   width: 1280px;
   display: flex;
   position: fixed;
+  margin: auto;
 background-color: #fff;
   flex-direction: row;
   height: 73px;
@@ -1353,6 +1354,7 @@ background-color: #fff;
   background-color: #e0eaef;
   height: 670px;
   width: 1280px;
+  margin: auto;
 }
 .aaw61 {
   display: flex;
