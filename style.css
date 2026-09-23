@@ -21,15 +21,13 @@ header {
 }
 .uwuu1 {
   width: 1280px;
+  z-index: 10;
   display: flex;
   position: fixed;
-  margin: auto;
 background-color: #fff;
   flex-direction: row;
   height: 73px;
-  justify-content: space-between;
-  padding-left: 48px;
-  padding-right: 48px;
+  justify-content: space-around;
 }
 .aaw11 {
   display: flex;
