@@ -10,6 +10,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
+ margin: auto;
 }
 
 header {
@@ -1350,6 +1351,7 @@ background-color: #fff;
 }
 .uwuu6 {
   display: flex;
+  align-items: center;
   padding: 72px 48px;
   background-color: #e0eaef;
   height: 670px;
